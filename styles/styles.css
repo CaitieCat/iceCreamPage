@@ -1,7 +1,7 @@
 body {
   display: flex;
   flex-direction: row;
-
+  font-family: 'Roboto', sans-serif;
   background-color: #fff0e5; 
 }
   
@@ -72,8 +72,22 @@ img {
 .philosophy {
     background-image: url("../images/iceCreamSide.png");
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex-grow: 3;
     width: 841px;
     height: 400px;
     margin: 5px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    background: #3E3940;
+    color: white;
+    height: 50%;
+    width: 64%;
 }
