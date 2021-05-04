@@ -1,4 +1,9 @@
 body {
-  background-color: #fff0e5; }
-
+  background-color: #fff0e5; 
+}
+  
+img {
+    border: 1px solid #676668;
+}
+  
 /*# sourceMappingURL=styles.css.map */
