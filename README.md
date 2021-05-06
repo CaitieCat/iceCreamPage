@@ -1,7 +1,7 @@
 # Ice Cream Page
 
 A small responsive webpage designed based on a figma wireframe. Uses simple html and css to style and create responsiveness within page. Wrapped in a PHP shell to host on heroku. 
-Hosted [here](https://git.heroku.com/ice-cream-page.git)!
+Hosted [here](https://ice-cream-page.herokuapp.com/)!
 
 ## Desktop view
 !["Desktop view of page"](https://github.com/CaitieCat/iceCreamPage/blob/main/images/DesktopView.png?raw=true)
